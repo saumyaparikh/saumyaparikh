@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [SAGE](: https://github.com/saumyaparikh/Sage)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Full Stack Development.**
 
-- 💬 Ask me about **Competitive Programming**
+- 💬 Ask me about **Anything!**
 
 - 📫 How to reach me **saumyaparikh10@gmail.com**
 
