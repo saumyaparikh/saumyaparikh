@@ -1,7 +1,13 @@
 <h1 align="center">Hello World! 👋, I'm Saumya Parikh</h1>
-<h3 align="center">Aspiring Computer Engineer with a keen interest in coding.</h3>
+<!-- <h3 align="center">Aspiring Computer Engineer with a keen interest in coding.</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/78d925f388bdfd914f5c84a30261e239.png?compress=1&resize=1000x750">
 
+### Glad to see you here! 
+
+- Pursuing Bachelors's in Computer Engineering 🎓 from Mumbai University 🏛.
+- I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+### Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on [SAGE](: https://github.com/saumyaparikh/Sage)
 
